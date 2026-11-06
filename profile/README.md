@@ -19,6 +19,8 @@ YumeDB **v2** is being rebuilt from scratch. Our repositories are private for no
 
 - Website: [yumedb.com](https://yumedb.com)
 - Contact: [contact@yumedb.com](mailto:contact@yumedb.com)
+- YouTube: [@yumedb](https://www.youtube.com/@yumedb)
+- Instagram: [@yumedb_official](https://www.instagram.com/yumedb_official/)
 
 ## Made by
 
